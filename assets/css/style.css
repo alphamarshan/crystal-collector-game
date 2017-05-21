@@ -1,0 +1,81 @@
+#gameTitle {
+	background-color: #225ab5;
+	color: white;
+	text-align: center;
+	width: 300px;
+	padding: 5px;
+	margin: 5px;
+}
+
+#instructionDiv {
+	background-color: #74a0e8;
+	color: white;
+	font-style: bold;
+	width: 500px;
+	padding: 5px;
+	margin: 5px;
+}
+
+#startingScore {
+	background-color: #043e9e;
+	color: white;
+	font-style: bold;
+	font-size: xx-large;
+	text-align: center;
+	width: 200px;
+	height: 100px;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+#winsLosses {
+	background-color: #043e9e;
+	color: white;
+	font-style: bold;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+#crystalButtonsDiv {
+	clear: left;
+}
+
+.crystalButtons {
+	height: 75px;
+	width: 75px;
+	margin: 2px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+#totalScoreIs {
+	background-color: #225ab5;
+	color: white;
+	text-align: left;
+	width: 230px;
+	margin-left: 5px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+#totalScoreValue {
+	background-color: #225ab5;
+	color: white;
+	font-size: xx-large;
+	text-align: center;
+	width: 220px;
+	margin-left: 5px;
+	padding: 10px;
+}
+
+#scoreValue {
+	background-color: #225ab5;
+	color: white;
+	font-size: xx-large;
+	text-align: center;
+}
